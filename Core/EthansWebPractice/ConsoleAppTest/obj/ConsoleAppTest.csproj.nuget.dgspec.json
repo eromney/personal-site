@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\romne\\Desktop\\eroms-site\\eroms-site-git\\Core\\EthansWebPractice\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\romne\\Desktop\\eroms-site\\eroms-site-git\\Core\\EthansWebPractice\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\romne\\Desktop\\eroms-site\\eroms-site-git\\Core\\EthansWebPractice\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectName": "ConsoleAppTest",
+        "projectPath": "C:\\Users\\romne\\Desktop\\eroms-site\\eroms-site-git\\Core\\EthansWebPractice\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "packagesPath": "C:\\Users\\romne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romne\\Desktop\\eroms-site\\eroms-site-git\\Core\\EthansWebPractice\\ConsoleAppTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
